@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="radhika-suite">
+<test name="radhika-test">
+
+<classes>
+   <class name="myPack.Radhika"/>
+</classes>
+
+</test>
+</suite>
